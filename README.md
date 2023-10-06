@@ -1,0 +1,1 @@
+This activity is being done to get acquainted with some git/GH related activities that we would do on our day to day basis
